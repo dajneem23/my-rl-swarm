@@ -1,0 +1,3 @@
+[submodule "rl-swarm"]
+	path = rl-swarm
+	url = https://github.com/gensyn-ai/rl-swarm.git
